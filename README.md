@@ -5,7 +5,7 @@
 
 ## Tellonym Tell sender.
 #### Fully requests tool, easy and superlightweight(99% true, 1% kinda true).
-
+### Gif not speeded up or slowed down, and it can go faster and faster than this, but more proxies .
 ![Alt Text](https://cdn.discordapp.com/attachments/929867910971785216/1061045933237883051/ezgif.com-gif-maker.gif)
 
 Features :-
